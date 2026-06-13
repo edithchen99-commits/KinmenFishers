@@ -1,0 +1,1 @@
+import{i as e,n as t,r as n}from"./index-BO4rMa4W.js";var r={};function i(t,r){return e(),n(`h1`,null,` 關於我們 `)}var a=t(r,[[`render`,i]]);export{a as default};
