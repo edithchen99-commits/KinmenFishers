@@ -1,0 +1,1 @@
+import{WebGLRenderer as e}from"./lib-ByAbeyyP.js";export{e as WebGLRenderer};
