@@ -1,0 +1,1 @@
+import{WebGPURenderer as e}from"./lib-DLj8SZRp.js";export{e as WebGPURenderer};
