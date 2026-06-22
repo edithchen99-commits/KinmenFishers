@@ -1,0 +1,1 @@
+var e=`/KinmenFishers/assets/bg-news2-Bxf_feMl.png`;export{e as t};
