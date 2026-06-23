@@ -1,0 +1,1 @@
+import{M as e,g as t}from"./vue.runtime.esm-bundler-DxDHbBlC.js";import{a as n}from"./index-CpyyYVDz.js";var r={};function i(n,r){return e(),t(`h1`,null,` 尋找我們 `)}var a=n(r,[[`render`,i]]);export{a as default};
